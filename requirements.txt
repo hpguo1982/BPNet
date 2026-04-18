@@ -1,0 +1,26 @@
+addict==2.4.0
+
+pandas
+pyyaml
+albumentations
+tqdm
+tensorboardX
+
+numpy==1.26.4
+
+pillow==9.5.0
+opencv-python==4.8.1.78
+scikit-image==0.20.0
+scipy==1.9.1
+
+perceptual==0.1
+
+tifffile==2020.9.3
+timm==0.3.2
+typing-extensions==4.0.0
+yapf==0.31.0
+
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch==1.13.0+cu116
+torchvision==0.14.0+cu116
+torchaudio==0.13.0+cu116
